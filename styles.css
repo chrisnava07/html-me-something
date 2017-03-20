@@ -1,0 +1,15 @@
+element.style{
+
+}
+body {
+    display: block;
+    max-width: 1000px;
+    margin: 50px 400px 50px;
+    background-color: #997;
+    text-align: center;
+
+
+}
+p {
+    padding: 50px 25px 50px;
+}
